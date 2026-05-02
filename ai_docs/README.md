@@ -1,0 +1,1 @@
+This directory will be a spot to dump any documentation I make with AI for now.
